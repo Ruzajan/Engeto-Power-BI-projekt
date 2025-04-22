@@ -12,7 +12,7 @@ Projekt je zpracován jako interaktivní Power BI report s cílem vizuálně zac
 Obsah repozitáře
 
 
-Ceska_rodina.pbix - Hlavní Power BI report (obsahuje vizuály, výpočty, datový model)
+Projekt Power BI.pbix - Hlavní Power BI report (obsahuje vizuály, výpočty, datový model)
 
 README.md
 
